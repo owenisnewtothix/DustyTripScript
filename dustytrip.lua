@@ -3,7 +3,7 @@
 -- GUI Library: Orion UI Library
 
 -- Load Orion UI
-local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))()
+local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/owenisnewtothix/DustyTripScript/refs/heads/main/dustytrip.lua"))()
 local Window = OrionLib:MakeWindow({Name = "DustyTrip V3", HidePremium = false, SaveConfig = true, ConfigFolder = "DustyTrip"})
 
 -- Player Setup
